@@ -2,7 +2,7 @@
 
 A case study analyzing how annual members and casual riders use Cyclistic's bike-share service, aimed at informing a marketing campaign to convert casual riders into members.
 
-📄 **[Read the full case study](./case_study.md)**
+📄 **[Read the full case study](./Cyclistic_Members_vs_Casual_Riders.md)**
 
 ## Highlights
 
